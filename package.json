@@ -21,7 +21,7 @@
     "@chakra-ui/system": "^2.6.0",
     "@cosmjs/encoding": "0.31.0",
     "@cosmjs/launchpad": "0.27.1",
-    "@cosmjs/proto-signing": "0.31.0",
+    "@cosmjs/proto-signing": "0.31.1",
     "@cosmos-kit/cosmostation": "^2.3.9",
     "@cosmos-kit/keplr": "^2.3.11",
     "@cosmos-kit/leap": "^2.3.8",
