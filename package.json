@@ -54,7 +54,7 @@
     "react-hook-form": "^7.32.1",
     "react-hot-toast": "^2.2.0",
     "react-icons": "^4.7.1",
-    "react-query": "^3.39.1",
+    "react-query": "^4.0.0",
     "recharts": "^2.4.3",
     "recoil": "^0.7.3"
   },
